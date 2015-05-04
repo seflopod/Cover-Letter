@@ -1,6 +1,6 @@
 # Cover Letter
 A cover letter I made for a Moonbot Studios application.  This was made using Unity 5.
-WebGL build on my [dropbox](https://dl.dropboxusercontent.com/u/105401308/cover_letter/cover_letter.html).
+WebGL build on my [dropbox](https://dl.dropboxusercontent.com/u/105401308/cover_letter/index.html).
 
 Made on 05/04/2015 as a cover letter for Moonbot Studios.
 As promised, these are the links to the various projects mentioned in the game (listed in no particular order).  Since they are all GitHub repos, you can of course find them by navigating my <a href="https://github.com/seflopod">GitHub page</a>.</p>
